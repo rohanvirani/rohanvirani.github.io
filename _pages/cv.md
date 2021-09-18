@@ -101,6 +101,7 @@ Leadership
   * Aided in organisation of weekly events with guest speakers from major investment and commercial banks (including Goldman Sachs and JP Morgan)
 
 Projects
+======
 
 * Conditional Independence Methods for Causal Discovery, Final Year Individual Project, Jan-June 2020
   * Wrote a review paper on conditional independence methods for constraint based causal discovery 
