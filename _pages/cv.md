@@ -88,6 +88,7 @@ Teaching
   * Created a company to deliver hands on machine learning workshops to business professionals and MBA Students
   * Achieved attendance exceeding 300 people (including executives at Apple and Santander) over 4 weeks and generated revenues of £4000
 
+
 Leadership
 ======
 
@@ -99,6 +100,7 @@ Leadership
 * Vice President for Imperial College Finance Society
   * Organised an international twenty-person trip to Hong Kong, visiting Fin Tech start-ups and hedge funds for networking sessions 
   * Aided in organisation of weekly events with guest speakers from major investment and commercial banks (including Goldman Sachs and JP Morgan)
+
 
 Projects
 ======
