@@ -2,6 +2,15 @@
 main:
   - title: "About"
     url: /about/
+
+  - title: "Publications"
+    url: /publications/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Books"
+    url: /books/
         
   - title: "Blog Posts"
     url: /year-archive/
